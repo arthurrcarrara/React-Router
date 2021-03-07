@@ -1,0 +1,9 @@
+.App{
+    /*Vai por os elementos no sentido row*/
+    display: flex;
+
+    /*Vai ocupar a tela inteira*/
+    height: 100vh;
+
+
+}

@@ -1,0 +1,8 @@
+.Content{
+    display: flex;
+    
+    /*Vai ocupar todo espaco da div App que abriga o .Content */
+    flex: 1;
+    background-color: #ddd;
+    padding: 30px;
+}
